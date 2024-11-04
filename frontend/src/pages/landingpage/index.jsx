@@ -339,9 +339,9 @@ export default function Landingpage() {
               </div>
 
               <div className="icones">
-                <img src="/assets/images/rodape/facebook.png"/>
-                <img src="/assets/images/rodape/instagram.png"/>
-                <img src="/assets/images/rodape/whatsapp.png"/>
+                <a href="https://web.facebook.com/profile.php?id=61568433172407"><img src="/assets/images/rodape/facebook.png"/></a>
+                <a href="https://www.instagram.com/skyblue.gc/?igsh=MTNyYmJ1ZDgyaDVrZQ%3D%3D"><img src="/assets/images/rodape/instagram.png"/></a>
+                <a href="https://wa.me/5511993296044?text=Olá,%20gostaria%20de%20mais%20informações."><img src="/assets/images/rodape/whatsapp.png"/></a>
               </div>
 
 
